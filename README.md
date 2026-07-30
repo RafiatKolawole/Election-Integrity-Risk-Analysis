@@ -52,4 +52,4 @@ Using Power BI, the project combines data cleaning, transformation, modeling, an
 
 ## Dashboard Preview
 
-![Election Integrity Dashboard](DASHBOARD.png)
+![Election Integrity Dashboard](DASHBOARD2.png)
