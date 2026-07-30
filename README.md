@@ -43,9 +43,13 @@ Using Power BI, the project combines data cleaning, transformation, modeling, an
 - Business Intelligence
 - Data Storytelling
 
+
 ## Repository Contents
 - `Election Integrity Dashboard.pbix`
 - `CLEANED_DATA.csv`
 - `DASHBOARD.png`
 - `EXECUTIVE_SUMMARY.pdf`
 
+## Dashboard Preview
+
+![Election Integrity Dashboard]https://github.com/RafiatKolawole/Election-Integrity-Risk-Analysis/blob/main/DASHBOARD.png
