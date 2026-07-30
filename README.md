@@ -52,4 +52,4 @@ Using Power BI, the project combines data cleaning, transformation, modeling, an
 
 ## Dashboard Preview
 
-![Election Integrity Dashboard]https://github.com/RafiatKolawole/Election-Integrity-Risk-Analysis/blob/main/DASHBOARD.png
+![Election Integrity Dashboard](DASHBOARD.png)
