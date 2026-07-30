@@ -49,5 +49,3 @@ Using Power BI, the project combines data cleaning, transformation, modeling, an
 - `DASHBOARD.png`
 - `EXECUTIVE_SUMMARY.pdf`
 
-## Author
-**Rafiat Kolawole**
